@@ -4,4 +4,6 @@ Pipe es un niño de 17 años.
 
 Master 1
 
+Master 2
+
 pipe es bueno en el pin pong.
